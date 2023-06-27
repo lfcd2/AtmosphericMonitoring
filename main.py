@@ -12,5 +12,5 @@ def blink(num):
 
 while True:
     blink(3)
-    time.sleep(100)
+    time.sleep(10)
 
